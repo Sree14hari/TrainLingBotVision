@@ -1,0 +1,5 @@
+*.wav
+lingbot-vision/
+dataset_split
+spectrogram_dataset
+VoiceDS_SHR

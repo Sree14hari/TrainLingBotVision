@@ -1,4 +1,4 @@
-# LingBot vs DINOv3: The Voice Arena
+# LingBot Vision vs DINOv3: The Voice Arena
 
 This workspace contains a voice classification pipeline built around a LingBot-Vision backbone and a DINOv3 experiment. The main workflow is implemented in `train2.ipynb`, which trains a classifier on generated images, saves the best checkpoint, and runs the final evaluation.
 
